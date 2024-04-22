@@ -1,0 +1,10 @@
+.dark-theme{
+    background-color: black;
+    color: white;
+    padding: 20px;
+}
+.light-theme{
+    background-color: white;
+    color: black;
+    padding: 20px;
+}
